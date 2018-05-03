@@ -19,6 +19,7 @@ body a {
 	-o-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 	text-decoration: none;
+	color:#8e8e8e;
 }
 body a:hover {
 	text-decoration: none;
@@ -53,6 +54,8 @@ label {
 a:focus, a:hover {
 	text-decoration: none;
 	outline: none;
+	color:#dadada;
+	cursor:default;
 }
 /*-- //Reset-Code --*/
 /*-- banner --*/
@@ -587,9 +590,9 @@ li.agile-it-adress-left b {
 }
 .w3-about-grid-right1 p {
     line-height: 1.8em;
-    font-size: 1em;
+    font-size: 0.9em;
     margin: 1em 0;
-	    color: #999;
+	    color: #021c3e;
 }
 .w3-about-grid-right1 h5 {
     font-size: 1.3em;
